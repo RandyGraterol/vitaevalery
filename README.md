@@ -1,1 +1,1 @@
-# vitaevalery
+# curriculum
